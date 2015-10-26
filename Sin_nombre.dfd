@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'cuantos kilos aguanta mi lavadora'
+5
+1
+5
+kilos
+7
+0
+1
+25
+(kilos>=0)and (kilos<=10)
+7
+0
+1
+26
+(kilos>=11)and (kilos<=15)
+7
+0
+1
+26
+(kilos>=16)and (kilos<=20)
+7
+0
+1
+27
+(kilos>=20)and (kilos<=100)
+13
+4
+1
+9
+'No lava'
+4
+1
+37
+'Quiero saber si mi ropa es delicada'
+5
+1
+8
+cantidad
+7
+0
+1
+31
+(cantidad>=0) and (cantidad<=5)
+7
+0
+1
+32
+(cantidad>=5) and (cantidad<=10)
+7
+0
+1
+34
+(cantidad>=10) and (cantidad<=100)
+13
+4
+1
+7
+'Sucia'
+13
+13
+4
+1
+8
+'Normal'
+13
+13
+4
+1
+10
+'Delicada'
+13
+13
+13
+4
+1
+8
+'Maxima'
+13
+13
+4
+1
+7
+'Medio'
+13
+13
+4
+1
+8
+'Minima'
+13
+1

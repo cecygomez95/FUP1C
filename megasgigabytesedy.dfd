@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Hola que hace?..... no es cierto XD' 
+4
+1
+56
+'algoritmo que convierte de megas a kilos teras y gigas'
+5
+1
+1
+a
+6
+2
+1
+b
+6
+a*1000
+1
+c
+6
+a*2128
+6
+1
+1
+i
+6
+a*2000
+4
+1
+26
+'el valor en gigas es',  b
+4
+1
+26
+'el valor en teras es',  c
+4
+1
+25
+'el valor en kilos es', i
+1
